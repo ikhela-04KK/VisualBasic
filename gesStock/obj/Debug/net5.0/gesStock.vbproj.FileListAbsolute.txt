@@ -1,0 +1,16 @@
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.vbproj.AssemblyReference.cache
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.AssemblyInfoInputs.cache
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.AssemblyInfo.vb
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.vbproj.CoreCompileInputs.cache
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock.deps.json
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock.runtimeconfig.json
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock.runtimeconfig.dev.json
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock.dll
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/ref/gesStock.dll
+/home/runner/LoyalEmptyStrategy/gesStock/bin/Debug/net5.0/gesStock.pdb
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.dll
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/ref/gesStock.dll
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.pdb
+/home/runner/LoyalEmptyStrategy/gesStock/obj/Debug/net5.0/gesStock.genruntimeconfig.cache

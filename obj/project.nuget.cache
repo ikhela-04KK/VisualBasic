@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kUrtJNiS7ZuftO84j6NYIhi4RDZo52KV3xyjlCFWs/3z5U8wmcnzAO6PeRUQ2n+7m1IIRbGXmvyp+mPc++Hb2Q==",
+  "dgSpecHash": "D1yxGZC0r2K3EGYvqYsT6/nEjlTWdBE/imqyj4mawie0tD5tKA4VakZdKYIAjGC3pXAX8UP3VvpuynM8d4hntQ==",
   "success": true,
-  "projectFilePath": "/home/runner/JauntyMerryGenericsoftware/main.vbproj",
+  "projectFilePath": "/home/runner/LoyalEmptyStrategy/main2.vbproj",
   "expectedPackageFiles": [
     "/home/runner/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/runner/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

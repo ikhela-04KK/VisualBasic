@@ -4651,11 +4651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/JauntyMerryGenericsoftware/main.vbproj",
-      "projectName": "main",
-      "projectPath": "/home/runner/JauntyMerryGenericsoftware/main.vbproj",
+      "projectUniqueName": "/home/runner/LoyalEmptyStrategy/main2.vbproj",
+      "projectName": "main2",
+      "projectPath": "/home/runner/LoyalEmptyStrategy/main2.vbproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/JauntyMerryGenericsoftware/obj/",
+      "outputPath": "/home/runner/LoyalEmptyStrategy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

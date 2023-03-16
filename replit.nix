@@ -1,5 +1,6 @@
 { pkgs }: {
 	deps = [
-		pkgs.dotnet-sdk_5
+		pkgs.sudo
+  pkgs.dotnet-sdk_5
 	];
 }

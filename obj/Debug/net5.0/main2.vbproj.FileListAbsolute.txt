@@ -1,0 +1,5 @@
+/home/runner/LoyalEmptyStrategy/obj/Debug/net5.0/main2.vbproj.AssemblyReference.cache
+/home/runner/LoyalEmptyStrategy/obj/Debug/net5.0/main2.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LoyalEmptyStrategy/obj/Debug/net5.0/main2.AssemblyInfoInputs.cache
+/home/runner/LoyalEmptyStrategy/obj/Debug/net5.0/main2.AssemblyInfo.vb
+/home/runner/LoyalEmptyStrategy/obj/Debug/net5.0/main2.vbproj.CoreCompileInputs.cache

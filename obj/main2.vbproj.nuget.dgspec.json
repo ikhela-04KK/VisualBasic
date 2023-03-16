@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/LoyalEmptyStrategy/main.vbproj": {}
+    "/home/runner/LoyalEmptyStrategy/main2.vbproj": {}
   },
   "projects": {
-    "/home/runner/LoyalEmptyStrategy/main.vbproj": {
+    "/home/runner/LoyalEmptyStrategy/main2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/LoyalEmptyStrategy/main.vbproj",
-        "projectName": "main",
-        "projectPath": "/home/runner/LoyalEmptyStrategy/main.vbproj",
+        "projectUniqueName": "/home/runner/LoyalEmptyStrategy/main2.vbproj",
+        "projectName": "main2",
+        "projectPath": "/home/runner/LoyalEmptyStrategy/main2.vbproj",
         "packagesPath": "/home/runner/.nuget/packages/",
         "outputPath": "/home/runner/LoyalEmptyStrategy/obj/",
         "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+run = "dotnet run"
+entrypoint = "main.vb"
+hidden = ["bin", "obj"]
+
+[nix]
+channel = "stable-22_11"
+
+[packager]
+language = "dotnet"
+
+[packager.features]
+packageSearch = true
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix"]

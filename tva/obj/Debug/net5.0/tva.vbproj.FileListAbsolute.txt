@@ -1,0 +1,16 @@
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.vbproj.AssemblyReference.cache
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.AssemblyInfoInputs.cache
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.AssemblyInfo.vb
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.vbproj.CoreCompileInputs.cache
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva.deps.json
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva.runtimeconfig.json
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva.runtimeconfig.dev.json
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva.dll
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/ref/tva.dll
+/home/runner/LoyalEmptyStrategy/tva/bin/Debug/net5.0/tva.pdb
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.dll
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/ref/tva.dll
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.pdb
+/home/runner/LoyalEmptyStrategy/tva/obj/Debug/net5.0/tva.genruntimeconfig.cache

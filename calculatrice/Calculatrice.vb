@@ -12,17 +12,36 @@ Module Calculatrice
             Console.Writeline("Entrez le deuxième nombre: ")
             nombre2 = Double.Parse(Console.ReadLine())
 
+    
             ' Utilisation de la structure de contrôle Select Case pour choisir l'opération à effectuer
-            Select Case operation
-                Case "+"
-                    resultat = nombre1 + nombre2
-                Case "-"
-                    resultat = nombre1 - nombre2
-                Case "*"
-                    resultat = nombre1 * nombre2
-                Case "/"
-                    resultat = nombre1 / nombre2
-            End Select
+            
+    
+            if operation = "+" then
+              resultat = nombre1 + nombre2
+
+            elseif operation ="-" then
+              resultat = nombre1 - nombre2
+
+            elseif operation ="*" then
+               resultat= nombre1 * nombre2
+
+            elseif operation ="/" then
+               resultat = nombre1 / nombre2
+            
+            end if 'et puis on affiche non?
+
+    
+            ' Select Case operation
+            '     Case "+"
+      
+            '         resultat = nombre1 + nombre2
+            '     Case "-"
+            '         resultat = nombre1 - nombre2
+            '     Case "*"
+            '         resultat = nombre1 * nombre2
+            '     Case "/"
+            '         resultat = nombre1 / nombre2
+            ' End Select
 
             ' Retourne le résultat de l'opération
             Return resultat

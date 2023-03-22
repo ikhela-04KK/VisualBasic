@@ -1,0 +1,5 @@
+/home/runner/LoyalEmptyStrategy/Ui_Cal/obj/Debug/net5.0/Ui_Cal.vbproj.AssemblyReference.cache
+/home/runner/LoyalEmptyStrategy/Ui_Cal/obj/Debug/net5.0/Ui_Cal.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LoyalEmptyStrategy/Ui_Cal/obj/Debug/net5.0/Ui_Cal.AssemblyInfoInputs.cache
+/home/runner/LoyalEmptyStrategy/Ui_Cal/obj/Debug/net5.0/Ui_Cal.AssemblyInfo.vb
+/home/runner/LoyalEmptyStrategy/Ui_Cal/obj/Debug/net5.0/Ui_Cal.vbproj.CoreCompileInputs.cache
